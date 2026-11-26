@@ -1,0 +1,17 @@
+# Only reviewed package files belong in the public repository.
+*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/SKILL.md
+!/references/
+!/references/*.md
+!/scripts/
+!/scripts/watch.py
+!/scripts/check.py
+!/scripts/install.py
+!/tests/
+!/tests/test_watch.py
+!/.github/
+!/.github/workflows/
+!/.github/workflows/check.yml
